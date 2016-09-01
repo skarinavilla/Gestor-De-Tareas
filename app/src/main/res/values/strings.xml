@@ -1,0 +1,9 @@
+<resources>
+    <string name="escriba_nombre">Escriba su Nombre</string>
+    <string name="escriba_email">Escriba su Email</string>
+    <string name="btn_guardar">Guardar</string>
+
+    <string name="min_char">Debe contener al menos 3 caracteres</string>
+    <string name="app_name">Gestor de Tareas</string>
+    <string name="welcome_msj">Bienvenido</string>
+</resources>

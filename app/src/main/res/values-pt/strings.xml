@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestão de Tarefas</string>
+    <string name="btn_guardar">Salvar</string>
+    <string name="escriba_email">Seu Email</string>
+    <string name="escriba_nombre">Seu Nome</string>
+    <string name="min_char">Deve conter pelo menos 3 caracteres</string>
+    <string name="welcome_msj">Bem-Vindo</string>
+</resources>

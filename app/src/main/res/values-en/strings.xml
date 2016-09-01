@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Task Manager</string>
+    <string name="escriba_nombre">Your name</string>
+    <string name="escriba_email">Your Email</string>
+    <string name="btn_guardar">Save</string>
+    <string name="min_char">At least 3 characters for Name</string>
+    <string name="welcome_msj">Welcome</string>
+</resources>
